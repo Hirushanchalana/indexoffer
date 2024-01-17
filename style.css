@@ -1,0 +1,42 @@
+body {
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-size: 195%;
+}
+table {
+    margin-left: 10rem;
+    margin-right: 50rem;
+    padding: 1rem;
+    border: solid red;
+    
+} 
+.id{
+    color: rgb(236, 31, 31);
+    height: 20px;
+    text-align: center;
+    
+}
+.main {
+   
+    text-shadow: none;
+    color: rgb(22, 12, 12);
+
+}
+.test {
+    width: 200px;
+    height: 200px;
+   
+}
+.h1{
+    text-align: center;
+    font-size: 100px;
+    margin: 5px;
+    padding: 200px;
+    
+}
+.img{
+    float: right;
+    display: flex;
+    height: 100px;
+
+}
